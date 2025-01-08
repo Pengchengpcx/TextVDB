@@ -9,7 +9,7 @@
   </a>
 </div>
 
-**Pengcheng Xu | [Qingnan Fan](https://fqnchina.github.io/)  | Fei Kou | Shuai Qin | Hong Gu | Ruoyu Zhao | Charles Ling | Boyu Wang**
+**Pengcheng Xu | Qingnan Fan | Fei Kou | Shuai Qin | Hong Gu | Ruoyu Zhao | Charles Ling | Boyu Wang**
 
 > Western University
 > 
